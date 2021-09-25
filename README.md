@@ -11,3 +11,5 @@ Generate macOS installers for command-line applications and products from one co
 <p align="center"> 
   <img src="https://cdn.dribbble.com/users/1161517/screenshots/7896076/apple-logo-animation.gif" width="600" height="450" />
 </p>
+
+* Edited from ![Original Git]("https://github.com/KosalaHerath/macos-installer-builder")
