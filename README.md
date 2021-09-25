@@ -4,7 +4,7 @@
 Generate macOS installers for command-line applications and products from one command.
 
 ## How to use
- - 1. put yout CLI applications in /macOS-x64/application/
+ - 1. put yout CLI applications in /macOS-x64/application/ (if directory is not exits, then create new one)
  - 2. run "build-macos-x64.sh" and enter your program name and version
  - 3. output will be at /macOS-x64/target/pkg/
 
